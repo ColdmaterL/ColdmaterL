@@ -1,6 +1,6 @@
 ### Olá, meu nome é Lucas Mendonça 👋
 
-#### Estudante de Ciência da Computação
+#### Estudante de Ciência da Computação.
 
 
 - Atualmente estudando C-Sharp.
