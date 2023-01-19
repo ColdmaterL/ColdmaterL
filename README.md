@@ -3,7 +3,7 @@
 #### Estudante de Ciência da Computação.
 
 
-- Atualmente estudando C-Sharp.
+- Atualmente estudando data-science.
 
 <div>
   <a href="https://github.com/ColdmaterL">
