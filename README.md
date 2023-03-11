@@ -3,7 +3,7 @@
 #### Estudante de Ciência da Computação.
 
 
-- Atualmente estudando data-science e machine learning, deep learning e banco de dados.
+- Atualmente estudando data-science e banco de dados.
 
 <div>
   <a href="https://github.com/ColdmaterL">
